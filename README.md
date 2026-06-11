@@ -281,8 +281,6 @@ streamlit run main.py
 
 **Vaishnava Devi**
 
-Passionate about IoT, Data Analytics, Full-Stack Development, and Building Real-World Technology Solutions.
-
 ---
 
 ## 📜 License
