@@ -12,12 +12,10 @@ def save_log(row):
         writer = csv.writer(file)
 
         if not file_exists or os.path.getsize(FILE_NAME) == 0:
+
             writer.writerow([
                 "Timestamp",
                 "AQI",
-                "PM25",
-                "PM10",
-                "CO2",
                 "Temperature",
                 "Humidity",
                 "Status",

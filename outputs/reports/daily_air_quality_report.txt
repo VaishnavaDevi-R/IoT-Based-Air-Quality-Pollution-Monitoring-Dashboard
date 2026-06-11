@@ -1,0 +1,22 @@
+
+=================================
+AIR QUALITY REPORT
+=================================
+
+Total Records: 302
+
+AQI Statistics
+--------------
+Average AQI: 97.94
+Maximum AQI: 250
+Minimum AQI: 35
+
+Temperature Statistics
+----------------------
+Average Temperature: 29.5 °C
+
+Humidity Statistics
+-------------------
+Average Humidity: 69.99 %
+
+=================================
